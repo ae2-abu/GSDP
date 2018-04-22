@@ -1,0 +1,21 @@
+<?php 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////     NEW NEWS Page       //////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+?>
+<form action="#">
+	<div class="col-md-8">
+		<div class="col-insdide">
+				<input type="text" name="title" id="dz-title" placeholder="News Title">
+				<textarea id="ck-news" name="body" placeholder="News"></textarea>
+		</div>
+	</div>			 	
+	<div class="col-md-4">
+		<div class="col-insdide">
+				<div id="dropzone-news" class="dropzone"></div>
+				<button id="dz-news-submit-btn" type="submit" id="nuser-submit-btn">Add</button>
+			
+		</div>
+	</div>
+</form>			 	
+					 
